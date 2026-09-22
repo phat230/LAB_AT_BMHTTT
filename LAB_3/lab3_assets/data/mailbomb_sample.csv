@@ -1,0 +1,81 @@
+Timestamp,Sender,Recipient,Subject,SizeBytes,Status
+2026-09-14T10:00:00,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:02,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:04,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:06,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:08,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:10,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:12,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:14,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:16,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:18,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:20,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:22,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:24,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:26,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:28,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:30,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:32,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:34,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:36,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:38,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:40,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:42,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:44,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:46,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:48,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:50,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:52,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:54,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:56,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:00:58,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:00,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:02,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:04,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:06,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:08,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:10,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:12,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:14,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:16,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:18,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:20,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:22,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:24,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:26,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:28,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:30,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:32,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:34,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:36,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:38,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:40,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:42,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:44,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:46,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:48,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:50,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:52,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:54,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:56,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:01:58,bulk-sender@example.invalid,lab3_target@example.invalid,[TRAINING] Thong bao lap lai,12000,accepted
+2026-09-14T10:02:00,normal0@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3060,accepted
+2026-09-14T10:02:02,normal1@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3061,accepted
+2026-09-14T10:02:04,normal2@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3062,accepted
+2026-09-14T10:02:06,normal3@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3063,accepted
+2026-09-14T10:02:08,normal0@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3064,accepted
+2026-09-14T10:02:10,normal1@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3065,accepted
+2026-09-14T10:02:12,normal2@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3066,accepted
+2026-09-14T10:02:14,normal3@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3067,accepted
+2026-09-14T10:02:16,normal0@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3068,accepted
+2026-09-14T10:02:18,normal1@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3069,accepted
+2026-09-14T10:02:20,normal2@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3070,accepted
+2026-09-14T10:02:22,normal3@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3071,accepted
+2026-09-14T10:02:24,normal0@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3072,accepted
+2026-09-14T10:02:26,normal1@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3073,accepted
+2026-09-14T10:02:28,normal2@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3074,accepted
+2026-09-14T10:02:30,normal3@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3075,accepted
+2026-09-14T10:02:32,normal0@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3076,accepted
+2026-09-14T10:02:34,normal1@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3077,accepted
+2026-09-14T10:02:36,normal2@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3078,accepted
+2026-09-14T10:02:38,normal3@example.invalid,lab3_target@example.invalid,[TRAINING] Bao cao,3079,accepted

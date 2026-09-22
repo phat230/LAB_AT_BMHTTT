@@ -1,0 +1,6 @@
+﻿Asset,Vulnerability,Threat,Risk,Control
+Thông tin xác thực tài khoản lab,Mật khẩu ngắn hoặc nhập vào phần mềm không tin cậy,Dò mật khẩu/keylogging/phishing,Mất quyền truy cập hoặc bị chiếm tài khoản,"Mật khẩu dài; MFA; endpoint protection; audit log"
+Dữ liệu trong C:\LAB3,Thiếu backup hoặc kiểm soát thay đổi,"Xóa nhầm; mã độc; lỗi đĩa",Mất hoặc thay đổi dữ liệu,"Backup; least privilege; hash; logging"
+Dịch vụ nghiệp vụ giả lập,Cổng lắng nghe ngoài dự kiến hoặc thiếu giám sát,Backdoor/DoS,Gián đoạn hoặc truy cập trái phép,"Firewall; process/network monitoring; allow-list"
+Email/người dùng,Thiếu xác minh domain hoặc người gửi,Phishing/Spear phishing,Lộ thông tin xác thực,"Awareness; email filtering; MFA; verify out-of-band"
+Windows 11 VM,Cấu hình bảo mật hoặc phần mềm không được cập nhật,Malware hoặc khai thác điểm yếu,Máy VM bị thay đổi hoặc mất an toàn,"Defender; cập nhật bảo mật; firewall; logging"

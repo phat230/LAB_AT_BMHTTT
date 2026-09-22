@@ -1,0 +1,18 @@
+From: "IT Support - Training" <helpdesk@security-training.example>
+Reply-To: verify@account-check.example
+To: lab3_student@example.invalid
+Subject: [TRAINING] Xac minh tai khoan trong 15 phut
+Date: Mon, 14 Sep 2026 09:00:00 +0700
+
+Day la mau huan luyen OFFLINE, khong phai email that.
+
+Tai khoan cua ban se bi khoa neu khong xac minh trong 15 phut.
+Vui long truy cap: https://account-check.example/verify
+Sau do nhap ten dang nhap va ma xac minh.
+
+Dau hieu can phan tich:
+- Tao cam giac khan cap.
+- Display name co ve dang tin cay nhung domain can duoc xac minh.
+- Reply-To khac From.
+- Yeu cau truy cap lien ket va cung cap thong tin xac thuc.
+- Domain .example chi dung cho huan luyen/tai lieu.
