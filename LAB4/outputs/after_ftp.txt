@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Tue Sep 29 15:53:55 2026 as: nmap -sV -p 2121 -oN after_ftp.txt 192.168.56.130
+Nmap scan report for 192.168.56.130
+Host is up (0.00050s latency).
+
+PORT     STATE  SERVICE     VERSION
+2121/tcp closed ccproxy-ftp
+MAC Address: 00:0C:29:AB:54:29 (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Sep 29 15:54:00 2026 -- 1 IP address (1 host up) scanned in 4.72 seconds

@@ -1,0 +1,1 @@
+# Nmap 7.98 scan initiated Tue Sep 29 15:43:15 2026 as: nmap -sV -O -oN ketqua.txt 192.168.56.130

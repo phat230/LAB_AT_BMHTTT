@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated Tue Sep 29 15:46:40 2026 as: nmap -sV -p 2121 -oN befoce_ftp.txt 192.168.56.130
+Nmap scan report for 192.168.56.130
+Host is up (0.00041s latency).
+
+PORT     STATE SERVICE VERSION
+2121/tcp open  ftp     ProFTPD 1.3.1
+MAC Address: 00:0C:29:AB:54:29 (VMware)
+Service Info: OS: Unix
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Sep 29 15:46:55 2026 -- 1 IP address (1 host up) scanned in 14.72 seconds
