@@ -209,5 +209,3 @@ Diagnostics → Backup & Restore
 Backup area: All
 Download configuration as XML
 ```
-
-> `config.xml` có thể chứa thông tin nhạy cảm của môi trường lab. Chỉ nộp cho giảng viên, không đăng công khai.
