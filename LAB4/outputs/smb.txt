@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Tue Sep 29 11:29:32 2026 as: nmap -p 445 -oG smb.txt 192.168.56.0/24
+Host: 192.168.56.1 ()	Status: Up
+Host: 192.168.56.1 ()	Ports: 445/filtered/tcp//microsoft-ds///
+Host: 192.168.56.130 ()	Status: Up
+Host: 192.168.56.130 ()	Ports: 445/open/tcp//microsoft-ds///
+Host: 192.168.56.254 ()	Status: Up
+Host: 192.168.56.254 ()	Ports: 445/filtered/tcp//microsoft-ds///
+Host: 192.168.56.128 ()	Status: Up
+Host: 192.168.56.128 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Sep 29 11:29:46 2026 -- 256 IP addresses (4 hosts up) scanned in 14.62 seconds

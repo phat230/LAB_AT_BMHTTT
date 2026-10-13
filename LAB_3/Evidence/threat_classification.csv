@@ -1,0 +1,6 @@
+﻿ID,Tình huống,Phân loại,Giải thích
+1,Nhân viên xóa nhầm tệp cấu hình đang dùng,Hành động vô ý,Người dùng gây ra sự cố nhưng không có chủ đích phá hoại
+2,Người có ác ý cài phần mềm thu thập dữ liệu,Hành động cố ý,Có chủ đích thu thập hoặc làm lộ dữ liệu
+3,Mất điện kéo dài làm dịch vụ dừng và file chưa ghi bị mất,Thảm họa tự nhiên,Sự cố môi trường làm gián đoạn hệ thống
+4,Ổ đĩa hỏng hoặc dịch vụ treo do lỗi phần mềm,Lỗi kỹ thuật,Sự cố phát sinh từ phần cứng hoặc phần mềm
+5,Tổ chức không áp dụng chính sách backup/patching dù đã có yêu cầu,Lỗi quản lý,Quy trình và chính sách quản lý không được thực hiện
